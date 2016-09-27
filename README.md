@@ -1,4 +1,5 @@
-# Multi-Tree-Based-UIFramework
+#Unity Multi-Tree-Based-UIFramework
+A simple uiFramework for UGUI
 每个ui都有3个状态：暂停 进入 退出
 
 每个ui都包含4个函数 OnEnter OnPause OnResume OnExit来控制状态的改变
