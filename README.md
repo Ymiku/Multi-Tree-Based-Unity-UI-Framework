@@ -1,5 +1,18 @@
 #Unity Multi-Tree-Based-UIFramework
 A simple uiFramework for UGUI
+
+
+
+How to use:
+
+UIManager.Pop()  return to last UI
+
+UIManager.Push() Enter new UI
+
+UIManager.Instance.StartAndResetUILine Enter a UITree and reset it
+
+UIManager.Instance.StartUILine  Enter a UITree and back to last status
+
 每个ui都有3个状态：暂停 进入 退出
 
 每个ui都包含4个函数 OnEnter OnPause OnResume OnExit来控制状态的改变
