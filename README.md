@@ -3,6 +3,10 @@ A simple uiFramework for UGUI
 
 <img src=http://chuantu.biz/t5/35/1475049580x3690160064.png />
 
+<img src=http://chuantu.biz/t5/35/1475049746x2728309645.png />
+
+<img src=http://chuantu.biz/t5/35/1475049985x2728309645.png />
+
 How to use:
 
 UIManager.Pop()  return to last UI
